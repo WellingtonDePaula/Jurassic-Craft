@@ -22,8 +22,8 @@
     },
     "run": {
       "enabled": true,
-      "speed": 1.0,
-      "fade": 5
+      "speed": 2,
+      "fade": 2
     },
     "turn_right": {
       "enabled": true,

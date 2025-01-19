@@ -1,0 +1,82 @@
+{
+  "enabled": true,
+  "range": 32,
+  "focus": false,
+  "ban": [],
+  "damage": {
+    "enabled": true,
+    "shadow": true,
+    "from_head": false,
+    "scale": 8.0,
+    "hit_color": 16711680,
+    "heal_color": 65280,
+    "crit_color": 13382655
+  },
+  "tips": {
+    "enabled": false,
+    "name": true,
+    "armor": true,
+    "interval": 4,
+    "y_dirt": false,
+    "y": 20
+  },
+  "type": "ICON",
+  "COLOR": {
+    "enabled": true,
+    "scale": 8,
+    "base_y": 40,
+    "wrapper": true,
+    "text": "ONLY_CURRENT",
+    "text_see": false,
+    "text_color": -1,
+    "position": "FOLLOW",
+    "bar_monster": -65536,
+    "bar_friendly": -16711936
+  },
+  "NAME_TAG": {
+    "enabled": true,
+    "scale": 8,
+    "base_y": 40,
+    "wrapper": true,
+    "text_type": "PERCENTAGE"
+  },
+  "FENCE": {
+    "enabled": true,
+    "scale": 8,
+    "base_y": 40,
+    "wrapper": true
+  },
+  "ICON": {
+    "enabled": true,
+    "scale": 8,
+    "base_y": 40,
+    "wrapper": true,
+    "text": "ONLY_CURRENT",
+    "text_see": false,
+    "text_color": -1,
+    "position": "IGNORED"
+  },
+  "BAR": {
+    "enabled": true,
+    "scale": 8,
+    "base_y": 40,
+    "wrapper": true,
+    "text": "CURRENT_AND_MAX",
+    "text_see": false,
+    "text_color": -1,
+    "position": "BOTTOM_RIGHT"
+  },
+  "IMAGE": {
+    "enabled": true,
+    "scale": 8,
+    "base_y": 40,
+    "wrapper": true,
+    "text": "CURRENT_AND_MAX",
+    "text_see": false,
+    "text_color": -1,
+    "position": "BOTTOM_RIGHT",
+    "draw_key": "COVER",
+    "back_file": [],
+    "fill_file": []
+  }
+}
