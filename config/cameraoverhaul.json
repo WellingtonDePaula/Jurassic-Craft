@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "strafingRollFactor": 0.3,
+  "getStrafingRollFactorWhenFlying": -1.0,
+  "getGetStrafingRollFactorWhenSwimming": -1.0,
+  "forwardVelocityPitchFactor": 0.5,
+  "verticalVelocityPitchFactor": 0.5,
+  "verticalVelocitySmoothingFactor": 0.5,
+  "horizontalVelocitySmoothingFactor": 0.3,
+  "yawDeltaRollFactor": 0.5,
+  "yawDeltaSmoothingFactor": 0.5,
+  "yawDeltaDecayFactor": 0.5,
+  "configVersion": 1
+}
