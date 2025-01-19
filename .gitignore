@@ -1,4 +1,13 @@
-modernfix/
-logs/
-saves/
+crash-reports/
+.mixin.out/
+.cache/
+mods/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar
 usercache.json
+options.txt
+config/fabric/
+config/canary.properties
+tacz/
+config/ironchests/
+config/oculus.properties
+tacz_backup/
+config/exordium.json
