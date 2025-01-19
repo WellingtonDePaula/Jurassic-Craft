@@ -10,3 +10,15 @@ usercache.json
 options.txt
 
 config/fabric/
+
+config/canary.properties
+
+tacz/
+
+config/ironchests/
+
+config/oculus.properties
+
+tacz_backup/
+
+config/exordium.json
