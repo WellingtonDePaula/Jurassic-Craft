@@ -1,0 +1,154 @@
+{
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-19 17:39:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-19 17:56:03 -0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "dawnera:the_dawn_era": {
+    "criteria": {
+      "join_game": "2025-01-19 17:47:13 -0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-01-19 17:57:10 -0300"
+    },
+    "done": false
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-01-19 17:39:43 -0300",
+      "has_black_balloon": "2025-01-19 17:39:43 -0300",
+      "has_lime_balloon": "2025-01-19 17:39:43 -0300",
+      "has_cyan_balloon": "2025-01-19 17:39:43 -0300",
+      "has_light_blue_balloon": "2025-01-19 17:39:43 -0300",
+      "has_gray_balloon": "2025-01-19 17:39:43 -0300",
+      "has_pink_balloon": "2025-01-19 17:39:43 -0300",
+      "has_light_gray_balloon": "2025-01-19 17:39:43 -0300",
+      "has_white_balloon": "2025-01-19 17:39:43 -0300",
+      "has_blue_balloon": "2025-01-19 17:39:43 -0300",
+      "has_yellow_balloon": "2025-01-19 17:39:43 -0300",
+      "has_purple_balloon": "2025-01-19 17:39:43 -0300",
+      "has_orange_balloon": "2025-01-19 17:39:43 -0300",
+      "has_brown_balloon": "2025-01-19 17:39:43 -0300",
+      "has_green_balloon": "2025-01-19 17:39:43 -0300",
+      "has_magenta_balloon": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_savanna": "2025-01-19 17:56:56 -0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-19 18:09:32 -0300"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-19 17:57:10 -0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-01-19 17:39:45 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-01-19 17:39:43 -0300",
+      "inv_changed-diamond": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-01-19 17:39:43 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-19 18:09:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2025-01-19 18:04:27 -0300",
+      "minecraft:desert": "2025-01-19 18:04:40 -0300",
+      "minecraft:deep_dark": "2025-01-19 17:47:14 -0300",
+      "minecraft:savanna": "2025-01-19 17:50:29 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
