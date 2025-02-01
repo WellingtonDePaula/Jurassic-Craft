@@ -11,7 +11,7 @@
   "SpawnData": {
     "SpawnCount": 1,
     "SpawnWeight": 1,
-    "RandomChance": 5,
+    "RandomChance": 3,
     "Biomes": [
       {
         "ID": "minecraft:plains"

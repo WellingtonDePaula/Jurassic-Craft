@@ -11,7 +11,7 @@
   "SpawnData": {
     "SpawnCount": "2-3",
     "SpawnWeight": 3,
-    "RandomChance": 10,
+    "RandomChance": 5,
     "Biomes": [
       {
         "ID": "minecraft:river"

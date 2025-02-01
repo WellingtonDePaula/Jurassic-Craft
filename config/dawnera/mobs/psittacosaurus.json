@@ -18,7 +18,7 @@
   "SpawnData": {
     "SpawnCount": "2-3",
     "SpawnWeight": 1,
-    "RandomChance": 0.33,
+    "RandomChance": 0.23,
     "Biomes": [
       {
         "ID": "minecraft:savanna"

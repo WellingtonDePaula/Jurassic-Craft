@@ -25,7 +25,7 @@
   "SpawnData": {
     "SpawnCount": "1",
     "SpawnWeight": 1,
-    "RandomChance": 0.25,
+    "RandomChance": 0.15,
     "Biomes": [
       {
         "ID": "minecraft:deep_ocean"

@@ -11,7 +11,7 @@
   "SpawnData": {
     "SpawnCount": "3-3",
     "SpawnWeight": 1,
-    "RandomChance": 0.4,
+    "RandomChance": 0.1,
     "Biomes": [
       {
         "ID": "minecraft:warm_ocean"

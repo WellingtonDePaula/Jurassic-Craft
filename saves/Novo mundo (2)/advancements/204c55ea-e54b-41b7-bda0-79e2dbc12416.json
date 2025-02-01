@@ -1,0 +1,192 @@
+{
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-01-31 23:04:29 -0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-31 22:58:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-01-31 23:02:44 -0300",
+      "minecraft:vindicator": "2025-01-31 23:03:08 -0300"
+    },
+    "done": false
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "dawnera:the_dawn_era": {
+    "criteria": {
+      "join_game": "2025-01-31 22:58:04 -0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-01-31 23:03:01 -0300"
+    },
+    "done": false
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-01-31 22:58:00 -0300",
+      "has_black_balloon": "2025-01-31 22:58:00 -0300",
+      "has_lime_balloon": "2025-01-31 22:58:00 -0300",
+      "has_cyan_balloon": "2025-01-31 22:58:00 -0300",
+      "has_light_blue_balloon": "2025-01-31 22:58:00 -0300",
+      "has_gray_balloon": "2025-01-31 22:58:00 -0300",
+      "has_pink_balloon": "2025-01-31 22:58:00 -0300",
+      "has_light_gray_balloon": "2025-01-31 22:58:00 -0300",
+      "has_white_balloon": "2025-01-31 22:58:00 -0300",
+      "has_blue_balloon": "2025-01-31 22:58:00 -0300",
+      "has_yellow_balloon": "2025-01-31 22:58:00 -0300",
+      "has_purple_balloon": "2025-01-31 22:58:00 -0300",
+      "has_orange_balloon": "2025-01-31 22:58:00 -0300",
+      "has_brown_balloon": "2025-01-31 22:58:00 -0300",
+      "has_green_balloon": "2025-01-31 22:58:00 -0300",
+      "has_magenta_balloon": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-31 23:00:50 -0300"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_desert": "2025-01-31 22:59:21 -0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-31 23:03:01 -0300"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-31 23:02:59 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-31 23:02:54 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed": "2025-01-31 23:00:50 -0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-01-31 22:58:01 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_emerald": "2025-01-31 23:02:54 -0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-01-31 23:02:54 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-01-31 22:58:00 -0300",
+      "inv_changed-diamond": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-01-31 22:58:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:pillager": "2025-01-31 23:02:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-01-31 22:59:11 -0300",
+      "minecraft:wooded_badlands": "2025-01-31 23:02:04 -0300",
+      "minecraft:badlands": "2025-01-31 23:02:07 -0300",
+      "minecraft:desert": "2025-01-31 23:01:08 -0300",
+      "minecraft:plains": "2025-01-31 22:58:04 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
